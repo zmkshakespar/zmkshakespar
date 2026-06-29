@@ -20,8 +20,6 @@ My academic journey revolves around advanced AI architectures and multimodal per
 
 - **Interspeech 2026**: Resolving 'Semantic Hegemony' via Acoustic-Semantic Decoupling (ACR-Net) *[1st Author, Accepted]*
 - **ICASSP 2026**: A Unified Image Deraining System for Real-World Scenarios (UD2MoE) *[2nd Author, Accepted]*
-- **ACM MM 2026**: OpenDepth: Robust Open-World Monocular Depth Estimation *[1st Author, Submitted]*
-- **ACM MM 2026**: Prior-Guided Single-Stream Architecture for Multimodal Remote Sensing Segmentation *[Co-First Author, Submitted]*
 
 ## 🛠 Skills & Tools
 
